@@ -73,10 +73,7 @@ form {
 .text-danger {
   color: red;
   font-size: medium;
-  position: absolute;
   font-weight: 500;
-  top: 55%;
-  left: 3%;
 }
 
 ul {
